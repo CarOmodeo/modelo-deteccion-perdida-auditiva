@@ -70,7 +70,7 @@ Sin embargo, este repositorio ofrece una descripción del proceso de desarrollo,
 
 Podés ver una explicación breve del proyecto en el siguiente video:
 
-📽️ [Ver video demo](media/demo-video.mp4)
+[![Ver video en YouTube](https://img.youtube.com/vi/GjpnVcLeTrc/hqdefault.jpg)](https://youtu.be/GjpnVcLeTrc)
 
 ---
 
